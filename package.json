@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage":"https://xula.github.io/imaginesoft",
+  "homepage": "https://xula.github.io/imaginesoft",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d ."
+    "deploy": "gh-pages -d site"
   },
   "author": "",
   "license": "ISC",
